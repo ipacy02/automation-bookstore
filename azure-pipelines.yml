@@ -5,7 +5,7 @@
 # https://aka.ms/yaml
 
 trigger:
-- master
+- fix-login-testt
 
 pool:
   vmImage: ubuntu-latest
